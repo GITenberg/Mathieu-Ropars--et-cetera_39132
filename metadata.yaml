@@ -1,0 +1,38 @@
+_repo: Mathieu-Ropars--et-cetera_39132
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Young, William
+    alias: Ex-editor
+    birthdate: 1809
+    deathdate: 1888
+    gutenberg_agent_id: '39857'
+    url: http://www.gutenberg.org/2009/agents/39857
+description: ''
+gutenberg_issued: '2012-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39132'
+  lccn: 09001195
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Short stories'
+- !lcsh 'Poetry'
+- !lcsh 'Fiction'
+tableOfContents: 'Mathieu Ropars -- Thrice only -- Tossing up for a husband -- Missing
+  mariners -- Mandragora, by the dozen -- Dr. Pablo''s prediction -- The New Hampshire
+  Alps -- Sliding scale of the inconsolables -- Rambling records: The gentle Arlesians.
+  At Nuremburg. Roman nomenclature. Brigands, beggars, and souvenirs. Livres des voyageurs
+  -- A singular anagram -- A well known document -- Bel piede -- Who is he? -- To
+  Ninon -- The last of the Roman gladiators -- The prudent bride -- The tramper''s
+  bed and the King''s -- Occasion -- The mournful ballad of the Alabama -- Lines for
+  the guitar -- Three men and a woman -- Another marble faun -- Charades.'
+title: 'Mathieu Ropars: et cetera'
+url: http://www.gutenberg.org/ebooks/39132
